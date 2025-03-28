@@ -15,7 +15,8 @@
   "main": "achary.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon achary"
+    "start": "nodemon achary.js",
+    "vercel-build": "npm install"
   },
   "keywords": [],
   "author": "",
